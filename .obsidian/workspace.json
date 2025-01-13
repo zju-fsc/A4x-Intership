@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "f8771201e2b2d6c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5338682e44384fe1",
+        "type": "tabs",
+        "dimension": 81.27490039840637,
+        "children": [
+          {
+            "id": "dd48962ad74ebe90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM_Inference_HPC/Train和Inference的区别.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Train和Inference的区别"
+            },
+            "group": "0d0aef916ce9dcdb"
+          },
+          {
+            "id": "a964354fa35dfcf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Text2HOI/数据集处理/H2O.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "H2O"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f1d91967526df46",
+        "type": "tabs",
+        "dimension": 18.725099601593627,
+        "children": [
+          {
+            "id": "6c7c09abf1cf2cea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LLM_Inference_HPC/Train和Inference的区别.md"
+              },
+              "icon": "lucide-list",
+              "title": "Train和Inference的区别 的大纲"
+            },
+            "group": "0d0aef916ce9dcdb"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2de62bc9b6fcca97",
+    "type": "split",
+    "children": [
+      {
+        "id": "d56fe40f10aa66a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cd10819b56a6558",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4c47065ac3c17ea5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1db7d2f25f087fed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dbe1885c43fb2ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c45ed02ff31f5fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea12d2e5856a0ebe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Text2HOI/模型框架复现/Pytorch的Module类学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Pytorch的Module类学习 的反向链接列表"
+            }
+          },
+          {
+            "id": "7363ea01eb1c077e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Text2HOI/模型框架复现/Pytorch的Module类学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Pytorch的Module类学习 的出链列表"
+            }
+          },
+          {
+            "id": "21e6d8001a6e1f40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0dca511889507381",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Text2HOI/模型框架复现/Pytorch的Module类学习.md"
+              },
+              "icon": "lucide-list",
+              "title": "Pytorch的Module类学习 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "dd48962ad74ebe90",
+  "lastOpenFiles": [
+    "Text2HOI/数据集处理/H2O.md",
+    "LLM_Inference_HPC/Train和Inference的区别.md",
+    "LLM_Inference_HPC/LLM Inference 过程.md",
+    "Pasted image 20250113162820.png",
+    "LLM_Inference_HPC/如何优化.md",
+    "Text2HOI/数据集处理/数据集处理过程：.md",
+    "Text2HOI/模型框架复现/python的一些基础知识.md",
+    "LLM_Inference_HPC",
+    "Text2HOI/模型框架复现/Pytorch的Module类学习.md",
+    "Text2HOI/数据集处理",
+    "Text2HOI/模型框架复现/文件配置加载：hydra和omegaconf.md",
+    "Text2HOI/模型框架复现.md",
+    "Text2HOI/模型框架复现",
+    "Text2HOI"
+  ]
+}
