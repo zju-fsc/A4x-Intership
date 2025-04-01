@@ -64,7 +64,7 @@ cam_to_hand <br>
 1 (whether annotate or not, 0: not annotate 1: annotate) + 21 * 3 (x, y, z in order) + 1 + 21 * 3 (right hand) <br>
 First 64 numbers belong to the left hand. Next 64 numbers belong to the right hand 
 ### hand_pose_MANO
-1 (whether annotate or not, 0: not annotate 1: annotate) + 3 translation values + 48 pose values + 10 shape values + 1 + 3 + 48 + 10 (right hand) <br>
+1 (whether annotate or not, 0: not annotate 1: annotate) + 3 translation values + 48 pose values + 10 shape values + 1 + 3 + 48 + 10 (right hand) <br>(这个3实际上是在48里面的)
 First 59 numbers belong to the left hand. Next 59 numbers belong to the right hand 
 ### obj_pose
 cam_to_obj <br>
