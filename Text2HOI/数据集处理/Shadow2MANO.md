@@ -29,3 +29,7 @@ Shadowhand数据集中包含的东西：
 3+3+22
 手腕位移，手腕旋转，shadowhand的22个关节的关节角
 其中手腕旋转是欧拉角的xyz表示
+
+
+obj_mesh文件路径：/remote-home/share/lqt/dataset/meshdata/
+'grasp_seqs’就是轨迹：大小应该是（N，80, 28），N就是单个文件的轨迹数量， 80是帧数，28是手的姿态参数
